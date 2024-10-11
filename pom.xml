@@ -8,7 +8,7 @@
         <version>3.3.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>org.example</groupId>
+    <groupId>guru.springframework</groupId>
     <artifactId>spring5-jokes-app-v2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring5-jokes-app-v2</name>
